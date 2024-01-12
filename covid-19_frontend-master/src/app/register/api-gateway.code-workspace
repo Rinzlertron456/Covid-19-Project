@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\api-gateway"
+		},
+		{
+			"path": "..\\..\\..\\..\\backend_services-master"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\discovery-service"
+		},
+		{
+			"path": "..\\..\\..\\..\\myuserservice"
+		}
+	]
+}
